@@ -1,2 +1,8 @@
-# ouha-chronicle-threads
-おうはクロニクル Threads自動投稿
+# おうはクロニクル Threads自動投稿
+
+ヘッドミント京都河原町店 セラピスト「おうはクロニクル」(@headmint_ouha) の自動投稿。
+
+- 投稿: 毎日10:00 JST（火・土は休み）
+- 起動: cron-job.org から workflow_dispatch
+- メニュー: ドライヘッドスパ70分3,980円 / アロママッサージ / 小顔矯正コルギ / もみほぐし（シャッフル・直前と同じにはならない）
+- トークンは毎月1日9:00に自動更新（token_renewal.yml）
